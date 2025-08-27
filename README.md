@@ -9,7 +9,7 @@ I’m a Data Analyst specializing in Excel, data entry, and data analysis. I hel
 - Data Visualization: Power BI, Tableau  
 
 ## Portfolio Highlights
-- Data Entry Project: 1000 rows × 7 columns, pivot table & chart  
+- company employee data: 1000 rows × 7 columns, pivot table & chart  
 - More projects coming soon…
 
 ## Contact
